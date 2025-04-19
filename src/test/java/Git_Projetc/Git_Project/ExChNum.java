@@ -7,4 +7,11 @@ public class ExChNum
 		
 	}
 
+	
+	public static void ExNu()
+	{
+		int a=10;
+		int b=20;
+	}
+	
 }
