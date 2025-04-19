@@ -11,5 +11,14 @@ public class RevNum
 	{
 		int a=10;
 		int d=20;
+		
+		while(a>0)
+		{
+			if(a==d)
+			{
+				System.out.println("It is Pass");
+			}
+		}
 	}
+	
 }
